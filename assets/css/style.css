@@ -78,6 +78,10 @@
 /*------------------- 1.3. Variable-------------------*/
 :root {
   --theme-color: #E3FF04;
+  --helix-color: #00B9FC;
+  --helix-dark: #044F7C;
+  --helix-color-dark: #036597;
+  --helix: #F0F6FF;
   --title-color: #0A0C00;
   --body-color: #0A0C00;
   --smoke-color: #F6F5F3;
@@ -2996,7 +3000,7 @@ picture.jarallax-img img {
 
 /*------------------- 3.7. Background -------------------*/
 .bg-theme {
-  background-color: var(--theme-color) !important;
+  background-color: var(--helix) !important;
 }
 
 .bg-theme2 {
