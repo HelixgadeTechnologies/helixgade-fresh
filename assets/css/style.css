@@ -6557,7 +6557,11 @@ ul.wp-block-latest-posts li:last-child {
   padding-bottom: 100px;
 }
 .hero-7 .hero-7-thumb {
-  margin-bottom: -100px;
+  margin-bottom: 0px;
+  padding-bottom: 30px;
+}
+.hero-7 .hero-7-thumb .btn-group {
+  text-align: center;
 }
 
 .hero-style7 {
