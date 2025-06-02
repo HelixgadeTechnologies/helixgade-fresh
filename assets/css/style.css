@@ -6117,6 +6117,12 @@ ul.wp-block-latest-posts li:last-child {
     font-size: 34px;
   }
 }
+
+@media (max-width: 767px) {
+    .hero-7 .hero-7-thumb {
+        text-align: center;
+    }
+}
 /* Hero 2 ---------------------------------- */
 .hero-2 {
   background: var(--title-color);
